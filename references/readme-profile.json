@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 139｜Text-encoded Linear Fields: translates the key outline, direction and proportions of a photo into a generative linear abstraction of many hairline horizontal and vertical lines, repeated sequences and occasional bends on an orthogonal grid, like plotter art, so it reads as a rational abstract structure from afar and only faintly reveals the subject up close; real letterforms from the subject's name, place or theme may be broken up and woven into the lines. A few colours from the photo separate line layers on pale paper, the motif stays small in large clean whitespace, and text is minimal coordinates or edge notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-139 or asks for plotter art, parametric line composition, text-based generative abstraction from a photo.",
+  "short_description": "文字编码线场志：把照片编码成极细的横竖线场，远看是抽象结构，近看才认出原物",
+  "zh-CN": {
+    "name": "文字编码线场志",
+    "tagline": "把照片编码成一小片极细的横竖线场，远看是抽象结构，近看才隐约认出原物。",
+    "look": "这一款不是转绘，而是抽象：主体的关键轮廓、方向和比例，通过大量极细的水平线、垂直线、重复序列和少量折线在正交网格上慢慢显形，像绘图仪画出的作品。线距、长短、密度、断裂和错位形成节奏；如果照片有合适的名称、地点或主题，可以把几个真实字形拆开、延伸，织进线里。几种来自照片的颜色只用来区分线的层级和方向，没有大色块和渐变。线场只是一小块，其余是大片浅色纸面空白；文字只作坐标或边缘注记。",
+    "traits": [
+      "文字编码线性抽象",
+      "极细正交网格",
+      "绘图仪线律",
+      "照片取色",
+      "主动大留白"
+    ],
+    "good": [
+      "轮廓和比例很有特点的主体：一座塔、一座桥、一栋楼、一棵树的剪影",
+      "有名字或地点可以拆成字形的照片：城市地标、站牌、店招、某个地名",
+      "想做成生成艺术海报、建筑或展览视觉、极简封面的照片"
+    ],
+    "poor": [
+      "需要一眼认出人、看清表情的照片：人像、合影、宠物特写",
+      "想要具象插画或保留场景氛围的需求",
+      "想要粗线条、科技 UI、赛博感、3D 或普通信息图效果"
+    ]
+  },
+  "en": {
+    "name": "Text-encoded Linear Fields",
+    "tagline": "Encodes your photo as a small field of hairline horizontal and vertical lines: abstract from afar, faintly recognisable up close.",
+    "look": "This is abstraction, not a redraw. The subject's key outline, direction and proportions slowly emerge from many hairline horizontal and vertical lines, repeated sequences and a few bends on an orthogonal grid, like a plotter drawing. Spacing, length, density, breaks and offsets set the rhythm; if the photo has a fitting name, place or theme, a few real letterforms may be broken apart, extended and woven into the lines. A few colours from the photo only separate line layers and directions, with no large colour blocks or gradients. The line field is just a small patch, the rest is wide pale paper, and text appears only as coordinates or edge notes.",
+    "traits": [
+      "Text-encoded linear abstraction",
+      "Hairline orthogonal grid",
+      "Plotter-drawn rhythm",
+      "Colours from the photo",
+      "Generous whitespace"
+    ],
+    "good": [
+      "Subjects with distinctive outlines and proportions: a tower, a bridge, a building, the silhouette of a tree",
+      "Photos with a name or place that can become letterforms: city landmarks, station signs, shop signs, a place name",
+      "Photos for a generative-art poster, architecture or exhibition visual, or a minimal cover"
+    ],
+    "poor": [
+      "Photos where people must be recognised at a glance: portraits, group shots, pet close-ups",
+      "Requests for figurative illustration or keeping the mood of the scene",
+      "Requests for bold lines, tech UI, cyberpunk, 3D or ordinary infographics"
+    ]
+  },
+  "ja": {
+    "name": "文字符号の線場",
+    "tagline": "写真をごく細い縦横の線の小さな場に符号化します。遠くからは抽象構造、近づくとかすかに元の姿が見えます。",
+    "look": "これは描き写しではなく抽象化です。主役の要となる輪郭、向き、比率が、直交グリッド上の無数のごく細い水平線と垂直線、繰り返しの並び、わずかな折れ線から少しずつ浮かび上がり、プロッターで描いた作品のように見えます。線の間隔、長さ、密度、途切れ、ずれがリズムをつくり、写真にふさわしい名前、場所、テーマがあれば、実際の字形をいくつか分解し、伸ばして線の中に織り込みます。写真から取った数色は線の階層や向きを分けるためだけに使い、大きな色面やグラデーションはありません。線の場は小さな一角だけで、残りは淡い紙の大きな余白。文字は座標や端の注記として置くだけです。",
+    "traits": [
+      "文字符号の線的抽象",
+      "ごく細い直交グリッド",
+      "プロッターの線のリズム",
+      "写真から取った色",
+      "積極的な大きな余白"
+    ],
+    "good": [
+      "輪郭や比率に特徴のある主役：塔、橋、ビル、木のシルエット",
+      "字形にできる名前や場所がある写真：街のランドマーク、駅名標、看板、地名",
+      "ジェネラティブアートのポスター、建築や展覧会のビジュアル、ミニマルな表紙にしたい写真"
+    ],
+    "poor": [
+      "人がひと目でわかり表情が見える必要がある写真：人物写真、集合写真、ペットのアップ",
+      "具象的なイラストや場面の雰囲気を残したい場合",
+      "太い線、テック系 UI、サイバー感、3D、普通のインフォグラフィックを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "문자 인코딩 선장",
+    "tagline": "사진을 아주 가는 가로세로 선의 작은 선장으로 인코딩합니다. 멀리서는 추상 구조, 가까이서야 원래 모습이 어렴풋이 보입니다.",
+    "look": "이것은 옮겨 그리기가 아니라 추상화입니다. 주인공의 핵심 윤곽, 방향, 비율이 직교 격자 위의 수많은 아주 가는 수평선과 수직선, 반복되는 배열, 몇 개의 꺾인 선에서 천천히 드러나 플로터로 그린 작품처럼 보입니다. 선 간격, 길이, 밀도, 끊김, 어긋남이 리듬을 만들고, 사진에 어울리는 이름이나 장소, 주제가 있으면 실제 글자 몇 개를 분해하고 늘여 선 속에 짜 넣습니다. 사진에서 가져온 몇 가지 색은 선의 층위와 방향을 구분하는 데만 쓰며 큰 색면이나 그러데이션은 없습니다. 선장은 작은 한 부분일 뿐 나머지는 넓은 연한 종이 여백이고, 글은 좌표나 가장자리 주석으로만 둡니다.",
+    "traits": [
+      "문자 인코딩 선형 추상",
+      "아주 가는 직교 격자",
+      "플로터 선의 리듬",
+      "사진에서 뽑은 색",
+      "적극적인 넓은 여백"
+    ],
+    "good": [
+      "윤곽과 비율이 특징적인 주인공: 탑, 다리, 건물, 나무의 실루엣",
+      "글자로 바꿀 이름이나 장소가 있는 사진: 도시 랜드마크, 역 표지판, 간판, 지명",
+      "제너러티브 아트 포스터, 건축·전시 비주얼, 미니멀한 표지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사람을 한눈에 알아보고 표정이 보여야 하는 사진: 인물 사진, 단체 사진, 반려동물 클로즈업",
+      "구상적인 일러스트나 장면의 분위기를 남기고 싶은 경우",
+      "굵은 선, 테크 UI, 사이버 느낌, 3D, 평범한 인포그래픽을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "حقول خطية بترميز النص",
+    "tagline": "يرمّز صورتك في حقل صغير من خطوط أفقية وعمودية بالغة الرقة: تجريد من بعيد، وملامح خافتة من قريب.",
+    "look": "هذا تجريد لا إعادة رسم. يظهر الخط الخارجي الأساسي للعنصر واتجاهه ونسبه تدريجياً من خطوط أفقية وعمودية كثيرة بالغة الرقة ومتواليات متكررة وبعض الانكسارات على شبكة متعامدة، كرسم آلة الراسم. يصنع التباعد والطول والكثافة والانقطاع والإزاحة الإيقاع؛ وإن كان للصورة اسم أو مكان أو موضوع مناسب، فقد تُفكَّك بضعة حروف حقيقية وتُمدّ وتُنسج في الخطوط. تُستخدم ألوان قليلة من الصورة للتمييز بين طبقات الخطوط واتجاهاتها فقط، بلا مساحات لونية كبيرة ولا تدرّجات. حقل الخطوط بقعة صغيرة فقط، والباقي ورق فاتح واسع، والنص يظهر إحداثيات أو ملاحظات على الحافة لا غير.",
+    "traits": [
+      "تجريد خطي بترميز النص",
+      "شبكة متعامدة بالغة الرقة",
+      "إيقاع آلة الراسم",
+      "ألوان من الصورة",
+      "فراغ واسع مقصود"
+    ],
+    "good": [
+      "عناصر ذات خطوط خارجية ونسب مميزة: برج، جسر، مبنى، ظلّ شجرة",
+      "صور فيها اسم أو مكان يمكن تحويله إلى حروف: معالم المدن، لافتات المحطات، لافتات المتاجر، اسم مكان",
+      "صور لملصق فن توليدي أو هوية بصرية معمارية أو لمعرض أو غلاف بسيط"
+    ],
+    "poor": [
+      "صور يجب أن يُعرف فيها الأشخاص من النظرة الأولى: صور شخصية، صور جماعية، لقطات مقرّبة للحيوانات الأليفة",
+      "طلب رسم تشخيصي أو الحفاظ على أجواء المشهد",
+      "طلب خطوط عريضة أو واجهات تقنية أو طابع سايبربانك أو ثلاثي الأبعاد أو رسوم بيانية عادية"
+    ]
+  }
+}
